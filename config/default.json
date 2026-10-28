@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://sachu123:sachu123@devconn.ljypqgh.mongodb.net/?appName=DevConn"
+  "mongoURI": "mongodb+srv://sachu123:sachu123@devconn.ljypqgh.mongodb.net/?appName=DevConn",
+  "jwtSecret": "sachu45861"
 }
